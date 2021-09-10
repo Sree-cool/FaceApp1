@@ -1,0 +1,13 @@
+body {
+    color: black;
+    background-image: linear-gradient(#ff83da, #bb90ff);
+}
+h3{
+    color: black;
+    font-size: 22px;
+}
+#camera{
+    border: 2px dashed;
+    width: 300px;
+    height: 300px;
+}
